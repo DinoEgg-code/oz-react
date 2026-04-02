@@ -1,4 +1,4 @@
-import Card from "../common/card";
+import Card from "../common/card/Card";
 import Styledbox from "../common/Styledbox";
 
 const Greenting = () => {
